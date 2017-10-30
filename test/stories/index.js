@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
-import { pwnSearch } from '../../src/main';
+import { pwnSearch } from '../../build';
 
 class ExampleInput extends Component {
   constructor(props) {

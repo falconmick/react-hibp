@@ -600,7 +600,7 @@ var react_development = createCommonjsModule(function (module) {
 
 'use strict';
 
-var objectAssign$1 = require$$0;
+var objectAssign$1 = objectAssign;
 var require$$0 = warning_1;
 var emptyObject = emptyObject_1;
 var invariant = invariant_1;
